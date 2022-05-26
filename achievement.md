@@ -8,11 +8,9 @@
 
 [ルモンド【公式】オンラインショップ](https://lumond.jp/)
 
-ゆたか 公式ウェブサイト
-https://yutaka-web.com/
+[ゆたか 公式ウェブサイト](https://yutaka-web.com/)
 
-おうち割烹 todoku 
-https://todoku.gourmet-maruichi.com/
+[おうち割烹 todoku](https://todoku.gourmet-maruichi.com/)
 
 淨音堂株式会社
 https://kiyonedo.jp/
