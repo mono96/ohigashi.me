@@ -6,7 +6,8 @@
 
 ## News
 
-<!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/1facfb1264a85524bc0cab92bddc0d81.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<!-- LightWidget WIDGET --><figure class="video_container">
+  <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/1facfb1264a85524bc0cab92bddc0d81.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe></figure>
 
 ## Profile
 
