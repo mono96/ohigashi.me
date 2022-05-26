@@ -41,3 +41,14 @@ Web・IT技術をわかりやすく優しくするコンサルタント Web・Bl
 
 [詳しいプロフィールはこちら](https://mono96.jp/about/)
 
+## Recent Activities
+
+<!-- LightWidget WIDGET --><figure class="video_container">
+  <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/1facfb1264a85524bc0cab92bddc0d81.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe></figure>
+  
+## Achievement  
+
+
+## Contact
+
+[お問い合わせフォーム](https://amid.co.jp/contact/)
