@@ -43,7 +43,7 @@
 
 [株式会社アトレス](https://atres.co.jp/)
 
-[happy831.com | 自然栽培の畑から笑顔をお届け](https://happy831.com/)
+[happy831.com 自然栽培の畑から笑顔をお届け](https://happy831.com/)
 
 [Uda Garden事業部](https://udagarden.com/)
 
