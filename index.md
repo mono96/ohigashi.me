@@ -4,7 +4,9 @@
 
 ## News
 
+『[おうち仕事を効率化する デジタル超整理術 \(PEACSムック\)](https://www.amazon.co.jp/%E3%81%8A%E3%81%86%E3%81%A1%E4%BB%95%E4%BA%8B%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%99%E3%82%8B-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B6%85%E6%95%B4%E7%90%86%E8%A1%93-PEACS%E3%83%A0%E3%83%83%E3%82%AF-flick-%E7%B7%A8%E9%9B%86%E9%83%A8-ebook/dp/B09RZJSTY8/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1QIKLIHKCRDA8&keywords=%E3%80%8E%E3%81%8A%E3%81%86%E3%81%A1%E4%BB%95%E4%BA%8B%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%99%E3%82%8B+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B6%85%E6%95%B4%E7%90%86%E8%A1%93%E3%80%8F&qid=1653564619&sprefix=%E3%81%8A%E3%81%86%E3%81%A1%E4%BB%95%E4%BA%8B%E3%82%92%E5%8A%B9%E7%8E%87%E5%8C%96%E3%81%99%E3%82%8B+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E8%B6%85%E6%95%B4%E7%90%86%E8%A1%93+%2Caps%2C161&sr=8-1)』に、ステイホームな時代での自宅仕事術が掲載。
 
+さらに詳しくはこちら
 
 ## WEB Site
 
@@ -44,7 +46,7 @@ Web・IT技術をわかりやすく優しくするコンサルタント Web・Bl
 ## Recent Activities
 
 <!-- LightWidget WIDGET --><figure class="video_container">
-  <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/1facfb1264a85524bc0cab92bddc0d81.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe></figure>
+<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/1facfb1264a85524bc0cab92bddc0d81.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe></figure>
   
 ## Achievement  
 
