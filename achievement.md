@@ -35,6 +35,8 @@
 
 [デキルヨ 【英語学習コーチ】船橋 由紀子](https://yk53.jp/)
 
+[すこやか歯科・小児歯科【公式HP】](https://sukoyaka8.com/)
+
 [小倉広オフィシャルWebサイト](https://www.ogurahiroshi.net/)
 
 [愛知淑徳大学 創造表現学部 創造表現学科](http://www.aasa.ac.jp/souzou/)
