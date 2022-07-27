@@ -17,6 +17,7 @@
 + [Kitchen Bee](https://kt8.jp/)
 + [orzレイアウト](http://www.orz-layout.com/)
 + [ものくろぼらぼら（更新停止中）](https://blog.ohigashi.me/)
++ [Box of Pictures](https://origin.mono96.jp/)
 
 ## SNS
 
