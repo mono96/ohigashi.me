@@ -27,8 +27,6 @@
 
 [ジッピー行政書士事務所](https://kemuyama.net/)
 
-[ヒューマンハピネス株式会社](https://www.humanhappiness.co.jp/)
-
 [あそび割烹 さん葉か](https://sanbaka.gourmet-maruichi.com/)
 
 [炭手前 鷽](https://uso.gourmet-maruichi.com/)
