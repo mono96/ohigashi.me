@@ -23,6 +23,8 @@
 
 [一般社団法人ビリーフリセット協会](https://breset.jp/)
 
+[翔栄法務司法書士事務所 司法書士　山内扶美子](https://235.co.jp/)
+
 [ジッピー行政書士事務所](https://kemuyama.net/)
 
 [ヒューマンハピネス株式会社](https://www.humanhappiness.co.jp/)
